@@ -107,4 +107,4 @@ The GA consistently finds near-optimal routes within a few hundred generations. 
 
 ---
 
-*Built by [Monish Mithra Kadiyala](https://linkedin.com/in/monishmithra) · MS Data Science @ University at Buffalo*
+*Built by [Monish Mithra Kadiyala](https://linkedin.com/in/monishmithra) ·*
